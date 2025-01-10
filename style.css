@@ -1,7 +1,9 @@
+
 .nav{
     display: flex;
     justify-content: space-around;
     
+    margin: 20px;
     
 }
 .nav-h{
@@ -23,6 +25,7 @@ padding: 20px;
     border-radius: 20px;
     width: 1280;
     height: 560;
+    
 }
 .b-left{
 padding-top: 117px;
@@ -56,8 +59,9 @@ font-weight: bold;
 .Future{
     display: flex;
     justify-content: space-between;
-    width: 1280;
+
     height: 560;
+
 }
 .fbox-1{
 background-color: rgb(190, 204, 236);
@@ -101,4 +105,40 @@ padding: 10px;
 font-weight: 700;
 border-radius: 10px;
 border: none;
+}
+.news-1{
+    display: flex;
+    background-color: #FFFFFF;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    margin: 20px;
+    border-radius: 20px;
+}
+.ne-1-l{
+margin: 20px;
+border-radius: 30px;
+im
+}
+.ne-1-r{
+    padding: 40px;
+
+
+}
+.same{
+    color: white;
+    background-color: #006A50;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+}
+.news-2{
+    display: flex;
+    justify-content: space-evenly;
+    
+    margin: 20px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+.vision{
+    margin: 27px;
 }
