@@ -1,0 +1,50 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.nav-h{
+   font-size: large; 
+   
+}
+.nav-b{
+    color: rgba(0, 106, 80, 1);
+    margin: 1px;
+padding: 20px;
+    border-radius: 5px;
+    border-color: green;
+}
+.banner{
+    display: flex;
+    background-color: rgba(198, 228, 214, 1);
+    justify-content: space-around;
+    margin: 20px;
+    border-radius: 20px;
+    width: 1280;
+    height: 560;
+}
+.b-left{
+padding-top: 117px;
+padding-left: 60px;
+padding-bottom: 117px;
+
+}
+.b-right{
+    height: 440px;
+    width: 470px;
+}
+.b-h4{
+    color: rgba(14, 14, 14, 0.5);
+
+}
+.b-h1{
+font-weight: bold;
+}
+.b-button{
+    color: white;
+    background-color: rgba(0, 106, 80, 1);
+    padding: 17px 34px;
+    border-radius: 15px;
+    border: none;
+}
