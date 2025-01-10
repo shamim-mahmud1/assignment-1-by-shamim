@@ -48,3 +48,57 @@ font-weight: bold;
     border-radius: 15px;
     border: none;
 }
+.ok{
+    margin-left: 30px;
+}
+    
+
+.Future{
+    display: flex;
+    justify-content: space-between;
+    width: 1280;
+    height: 560;
+}
+.fbox-1{
+background-color: rgb(190, 204, 236);
+margin: 24px;
+padding: 15px;
+border-radius: 15px;
+}
+.fbax-2{
+background-color: rgb(193, 245, 223);
+margin: 24px;
+padding: 15px;
+border-radius: 15px;
+}
+.fbox-3{
+background-color: rgb(240, 223, 180);
+margin: 24px;
+padding: 15px;
+border-radius: 15px;
+}
+.button-1{
+    
+background-color: rgba(84, 144, 245, 1);
+color: white;
+padding: 10px;
+font-weight: 700;
+border-radius: 10px;
+border: none;
+}
+.button-2{
+background-color:rgba(9, 161, 92, 1) ;
+color: white;
+padding: 10px;
+font-weight: 700;
+border-radius: 10px;
+border: none;
+}
+.button-3{
+background-color:rgba(9, 161, 92, 1) ;
+color: white;
+padding: 10px;
+font-weight: 700;
+border-radius: 10px;
+border: none;
+}
