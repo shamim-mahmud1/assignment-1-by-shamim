@@ -116,8 +116,14 @@ border: none;
 }
 .ne-1-l{
 margin: 20px;
-border-radius: 30px;
-im
+border-radius: 50px;
+
+}
+.emg{
+    border-radius: 20px;
+}
+.emg-2{
+    border-radius: 20px;
 }
 .ne-1-r{
     padding: 40px;
@@ -187,4 +193,22 @@ im
     background-color: aliceblue;
     border-radius: 12px;
     box-shadow: 5px wheat;
+}
+.taka{
+    text-align: center;
+    margin-top: 30px;
+    
+}
+.amount{
+    
+}
+input{
+    padding: 20px 400px;
+    background-color: aliceblue;
+}
+.ch{
+    text-align: center;
+}
+.pphh{
+    text-align: center;
 }
