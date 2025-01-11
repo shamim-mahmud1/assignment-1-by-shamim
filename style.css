@@ -142,3 +142,49 @@ im
 .vision{
     margin: 27px;
 }
+.bbox{
+    display: flex;
+    justify-content:center;
+
+}
+.bbox-1{
+   
+    padding: 35px;
+    font-weight: bolder;
+    color: rgba(14, 14, 14, 0.8);
+    margin-right: 40px;
+    background-color: aliceblue;
+    border-radius: 12px;
+    box-shadow: 5px wheat;
+}
+.bbox-2{
+    
+    padding: 35px;
+    font-weight: bolder;
+    color: rgba(14, 14, 14, 0.8);
+    margin-right: 40px;
+    background-color: aliceblue;
+    border-radius: 12px;
+    box-shadow: 5px wheat;
+}
+
+.bbox-3{
+    
+    padding: 35px;
+    font-weight: bolder;
+    color: rgba(14, 14, 14, 0.8);
+    margin-right: 40px;
+    background-color:rgba(198, 228, 214, 1);
+    border-radius: 12px;
+    box-shadow: 5px wheat;
+}
+.bbox-4{
+    
+    padding: 35px;
+    font-weight: bolder;
+    color: rgba(14, 14, 14, 0.8);
+    margin-right: 40px;
+    background-color: aliceblue;
+    border-radius: 12px;
+    box-shadow: 5px wheat;
+}
